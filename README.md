@@ -98,10 +98,39 @@ vertical-alighn, border, padding, margin에 대해서 배움.
 # 240308 #
 ### FIGMA ###
 floating action buttons, slide의 기능을 익히고 응용함
-와이어 프레임에 마크업 분석을 하는 작업을 함.
+와이어 프레임을 기반으로 마크업 분석을함. 
 
 ### HTML ###
 둥근모서리 border-radius에 대해서 배우고
 요소의 실제 크기에 대해서 배움.
 margin과 padding의 개념을 익히기 위해 응용하는 시간도 가짐.
+
+
+# 240311  #
+### FIGMA ###
+웹사이트의 모바일 버전을 동일하게 디자인했음
+
+### HTML ###
+요소의 실제크기, 넘치는 컨텐츠제어 overflow에 대해서 배움
+
+
+# 240312  #
+### FIGMA ###
+마크업 분석을 기반으로 기존의 사이트를  모바일 버전으로 리디자인 함
+
+### HTML ###
+table style의 개념을 배우고 연습해보는 시간을 가짐
+
+# 240313  #
+### FIGMA ###
+마크업 분석을 기반으로 기존의 사이트를 pc버전으로 리디자인 함
+
+
+### HTML ###
+요소의 성격변경을 하는 display,visibility,opacity을 배웠으며
+before,after의 성격에 대해서 배움.
+
+
+
+
 
