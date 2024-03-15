@@ -140,5 +140,12 @@ em, Rem, Viewport,flex-direction,
 wrap,flow의 속성에 대해서 배움
 
 
+# 240315  #
+### HTML ###
+flex(gap, justify-content, align-item,align-content, 
+align-self)의 속성에 대해서 배우고 다양한 예제를 통해 
+개념을 응용하는 시간을 가짐.
+
+
 
 
