@@ -131,6 +131,14 @@ table style의 개념을 배우고 연습해보는 시간을 가짐
 before,after의 성격에 대해서 배움.
 
 
+# 240314  #
+### UI·UX ###
+UI·UX의 기본 개념에 대해서 배움.
+
+### HTML ###
+em, Rem, Viewport,flex-direction,
+wrap,flow의 속성에 대해서 배움
+
 
 
 
