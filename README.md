@@ -146,6 +146,8 @@ flex(gap, justify-content, align-item,align-content,
 align-self)의 속성에 대해서 배우고 다양한 예제를 통해 
 개념을 응용하는 시간을 가짐.
 
-
+# 240318  #
+### HTML ###
+flex의 개념을 예제를 통해 응용하는 시간을 가짐
 
 
